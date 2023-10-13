@@ -23,8 +23,8 @@ This repository contains the HTML and CSS files for a portfolio website and an a
 ## How to Use
 
 1. Download both HTML files.
-2. Open `final_portfolio_website_with_styled_experience_button.html` in a web browser to view the portfolio.
-3. Click on the "Experience" button to navigate to the `final_experience_page_with_return_button.html`.
+2. Open `main.html` in a web browser to view the portfolio.
+3. Click on the "Experience" button to navigate to the `experience.html`.
 
 ## Customization
 
