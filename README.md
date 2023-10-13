@@ -4,8 +4,8 @@ This repository contains the HTML and CSS files for a portfolio website and an a
 
 ## Files
 
-1. `final_portfolio_website_with_styled_experience_button.html`: This is the main portfolio page that includes buttons for LinkedIn, Twitter, Email, and Experience.
-2. `final_experience_page_with_return_button.html`: This page presents the user's work experience in a timeline format and includes a "Return" button to navigate back to the main portfolio page.
+1. `main.html`: This is the main portfolio page that includes buttons for LinkedIn, Twitter, Email, and Experience.
+2. `experience.html`: This page presents the user's work experience in a timeline format and includes a "Return" button to navigate back to the main portfolio page.
 
 ## Features
 
